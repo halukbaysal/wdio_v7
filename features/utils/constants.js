@@ -1,0 +1,9 @@
+const WAIT_TIME = 20000;
+const BROWSER_NAME_CHROME = "chrome";
+const LOG_LEVEL_SEVERE = "SEVERE";
+
+module.exports = {
+  WAIT_TIME,
+  BROWSER_NAME_CHROME,
+  LOG_LEVEL_SEVERE,
+};
