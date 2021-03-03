@@ -21,6 +21,10 @@ exports.config = {
   exclude: [
     // 'path/to/excluded/files'
   ],
+  
+  // user: BROWSERSTACK_USERNAME,
+  // key: BROWSERSTACK_ACCESS_KEY,
+  
   //
   // ============
   // Capabilities
